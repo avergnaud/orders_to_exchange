@@ -1,0 +1,1 @@
+curl -d '{"pair":"XETHZEUR", "type":"sell", "ordertype":"market", "volume":"1"}' -H "Content-Type: application/json" http://127.0.0.1:3000/order
